@@ -1,0 +1,2 @@
+Letters: 10
+Digits: 0
